@@ -1,0 +1,57 @@
+NewRelic Alerts .
+
+
+ip-10-0-8-234
+
+Catalog Ingestor Service
+Process Running < 2 for at least 1 minutes on 'ip-10-0-8-234'
+
+
+
+cdcsearch-prod
+CDC Service
+Process Running < 2 for at least 1 minutes on 'cdcsearch-prod'
+
+
+WMSAPP violated host not reporting
+
+Memory Used % > 90 for at least 10 minutes on 'Live-BI-DB'
+
+
+NAVAPP1 violated host not reporting
+
+
+ SankatMochan Response time (web) (High) 
+
+ An error has been detected on ofsdb3 involving the mysql replciation. Below is a list of the reported errors:
+
+ OFS-DB-SLAVE
+infra-load
+Load Average Five Minute > 20 for at least 5 minutes on 'OFS-DB-SLAVE'
+\
+
+atom
+Error percentage (High) newstack
+Error percentage > 2% for at least 10 minutes
+
+Checkmark 		Recovered 3 minute(s) after incident open
+OFS-CRM2 (GetDeliveryStatusFromAramex.exe)
+cpu-newstack
+CPU % > 50 for at least 2 minutes on 'OFS-CRM2 (GetDeliveryStatusFromAramex.exe)'
+
+OFS-DB-SLAVE
+infra-load
+Load Average Five Minute > 20 for at least 5 minutes on 'OFS-DB-SLAVE'
+
+Checkmark 		Recovered 4 minute(s) after incident open
+OFS-CRM2 (GetDeliveryStatusFromAramex.exe)
+cpu-newstack
+CPU % > 50 for at least 2 minutes on 'OFS-CRM2 (GetDeliveryStatusFromAramex.exe)'
+
+NAVAPP1
+host not reporting
+Host Not Reporting at least once in 5 minutes on 'NAVAPP1'
+
+WMSAPP
+host not reporting
+Host Not Reporting at least once in 5 minutes on 'WMSAPP'
